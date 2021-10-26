@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65f23f220613b5447bb2029ccd098b8c, type: 3}
+  m_Name: MercOrcWarrior
+  m_EditorClassIdentifier: 
+  image: {fileID: 2800000, guid: bd552c5cd24bf0c4aafbd8cc134f7843, type: 3}
+  sprite: {fileID: 21300000, guid: bd552c5cd24bf0c4aafbd8cc134f7843, type: 3}
+  codeName: mercOrcWarrior
+  cardType: 0
+  cardEffectType: 1
+  cardEffectTarget: 0
+  characterCodename: orcWarrior
+  manaCost: 2
+  attackPoint: 1
+  attackCount: 1
+  healthPoint: 4
+  isAdvance: 0
+  isExhaust: 0
+  nameEn: Orc Warrior
+  nameKo: "\uC624\uD06C \uC804\uC0AC"
+  descEn: Each time it is damaged, gain Attack +1.
+  descKo: "\uD53C\uD574\uB97C \uBC1B\uC744 \uB54C\uB9C8\uB2E4 \uACF5\uACA9\uB825
+    +1"

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65f23f220613b5447bb2029ccd098b8c, type: 3}
+  m_Name: MercEnemyViking
+  m_EditorClassIdentifier: 
+  image: {fileID: 2800000, guid: bd552c5cd24bf0c4aafbd8cc134f7843, type: 3}
+  sprite: {fileID: 21300000, guid: bd552c5cd24bf0c4aafbd8cc134f7843, type: 3}
+  codeName: mercEnemyViking
+  cardType: 0
+  cardEffectType: 1
+  cardEffectTarget: 0
+  characterCodename: vikingE
+  manaCost: 2
+  attackPoint: 1
+  attackCount: 2
+  healthPoint: 5
+  isAdvance: 0
+  isExhaust: 0
+  nameEn: Viking
+  nameKo: "\uBC14\uC774\uD0B9"
+  descEn: 
+  descKo: 
